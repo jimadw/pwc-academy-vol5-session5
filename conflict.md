@@ -1,1 +1,1 @@
-This is `conflict.md` file in main branch.
+This is `conflict.md` file in main brnch.
