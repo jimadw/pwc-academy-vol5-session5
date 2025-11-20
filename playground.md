@@ -1,4 +1,2 @@
 This is `playground.md` file in main branch.
 
-
-mhtsos adw
